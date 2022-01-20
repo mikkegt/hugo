@@ -1,13 +1,13 @@
 baseURL = 'https://mikkegt.github.io/hugo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'elink'
 theme = 'SimpleIntro'
 
 [params]
     mainbg = "https://picsum.photos/1920/1080"
-    name = "John Doe"
-    mainTitle = "Simple-intro"
-    mainText = "Just simple intro theme for hugo"
+    name = "elink"
+    mainTitle = "Hello, World"
+    mainText = "Thank you for coming my website"
 
 [menus]
     [[menu.main]]
