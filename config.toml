@@ -23,6 +23,10 @@ theme = 'SimpleIntro'
         name = "Projects"
         url = "#projects"
     [[menu.footer]]
+        identifier = "contact"
+        name = "Contact"
+        url = "https://forms.gle/JefKx45aXnHjDNj36"
+    [[menu.footer]]
         identifier = "privacy"
         name = "Privacy"
         url = "/privacy/"
