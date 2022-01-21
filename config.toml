@@ -22,8 +22,8 @@ theme = 'SimpleIntro'
         identifier = "projects"
         name = "Projects"
         url = "#projects"
-    [[menu.main]]
+    [[menu.footer]]
         identifier = "privacy"
         name = "Privacy"
-        url = "#privacy"
+        url = "/privacy/"
     
