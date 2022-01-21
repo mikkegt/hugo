@@ -1,6 +1,10 @@
 <footer class="text-center mt-8 py-2 bg-gray-900 text-white">
-  {{ range .Site.Menus.footer }}
-  <a href="{{ .URL }}">{{ .Name }}</a>
-  {{ end }}
   <div>&copy; {{ now.Format "2006" }} {{ $.Site.Params.Name }}</div>
+  <ul class="hidden md:flex">
+    {{ range .Site.Menus.footer }}
+    <li>
+      <a href="{{ .URL }}">{{ .Name }}</a>
+    </li>
+    {{ end }}
+  </ul>
 </footer>
