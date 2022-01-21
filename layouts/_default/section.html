@@ -1,0 +1,14 @@
+<div class="pr-nav">
+<a href="{{ .Site.BaseURL }}" class="logo">{{ .Site.Title }}</a>
+</div>
+{{- partial "header.html" . -}}
+<section class="wrapper">
+  <div class="container">
+    <div class="text-3xl font-bold tracking-wide">{{ .Title }}</div>
+    <div class="mx-5">
+      <div class="font-bold title-deco text-xl my-5">個人情報の利用目的</div>
+      <p>本文</p>
+    </div>
+  </div>
+</section>
+{{- partial "footer.html" . -}}
