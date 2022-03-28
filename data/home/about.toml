@@ -1,0 +1,30 @@
+title = "It’s-a ME, MISATO!"
+
+text = """
+I have been involved in IT industry for more than 20 years. 
+As one of humanity members, I will perform to the best of my ability to contribute to society.
+@SingularitySoci
+@wwg_tokyo
+"""
+
+[[link]]
+    icon = "fab fa-github"
+    url = "https://github.com/mikkegt"
+# [[link]]
+#     icon = "fab fa-linkedin"
+#     url = "#"
+[[link]]
+    icon = "fas fa-envelope"
+    url = "https://forms.gle/wZAYffTvAAxrdg1i9"
+# [[link]]
+#     icon = "fab fa-instagram"
+#     url = "#"
+# [[link]]
+#     icon = "fab fa-facebook"
+#     url = "#"
+[[link]]
+    icon = "fas fa-globe"
+    url = "https://greentown.tokyo"
+[[link]]
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/mikkegt"
