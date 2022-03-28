@@ -28,3 +28,18 @@ footer ul li a {
   color: #fff;
   letter-spacing: 2px;
 }
+
+@media screen and (max-width:480px) {
+  * {
+    float: none;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  footer {
+    padding: 20px;
+  }
+}　　　　　　　
